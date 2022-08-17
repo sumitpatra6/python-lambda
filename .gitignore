@@ -1,2 +1,7 @@
 *.pyc
 venv
+*egg*
+*.zip
+zip.exe
+dist/*
+package
