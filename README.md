@@ -16,6 +16,8 @@ venv\bin\activate
 - cd package
 - zip -r ./deployment.zip .
 - cd ../
-- zip -g deployment.zip src
+- zip -r -g deployment.zip src
 
 ` This will create the deployment.zip file which willl have all the requirements as well as the source code.
+
+## steps to set up an API gateway
